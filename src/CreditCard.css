@@ -1,0 +1,13 @@
+.creditCard{
+    width: 300px;
+    border: solid black 1px;
+    border-radius: 5%;
+    padding: 30px;
+
+
+}
+
+#number{
+    font-size: 30px;
+    text-align: end;
+}
